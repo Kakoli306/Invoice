@@ -1,4 +1,8 @@
 ## Dependencie
+- You have to neeed run this command line
+composer update 
+php artisan key:generate
+- Make sure your php version 7.11
 
 
 ## About Invoice Application
